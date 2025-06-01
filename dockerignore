@@ -1,21 +1,7 @@
-# Node modules
-node_modules/
+node_modules
+.git
+.gitignore
+README.mdg
+Dockerfile
+.dockerignore
 
-# Env files
-.env
-
-# Logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Build folders
-dist/
-build/
-
-# Mac system files
-.DS_Store
-
-# Others
-.idea/
-.vscode/
